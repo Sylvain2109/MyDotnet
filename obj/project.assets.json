@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/SylvainTanguy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/SylvainTanguy/Desktop/Work/VSCode tuto/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch01/01_05/Begin/SampleCode/MyDotnet/MyDotnet.csproj",
+      "projectName": "MyDotnet",
+      "projectPath": "/Users/SylvainTanguy/Desktop/Work/VSCode tuto/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch01/01_05/Begin/SampleCode/MyDotnet/MyDotnet.csproj",
+      "packagesPath": "/Users/SylvainTanguy/.nuget/packages/",
+      "outputPath": "/Users/SylvainTanguy/Desktop/Work/VSCode tuto/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/Ch01/01_05/Begin/SampleCode/MyDotnet/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/SylvainTanguy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
